@@ -1,0 +1,10 @@
+{
+  "name": "typescript-project-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Peter Juras <me@peterjuras.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.4.1"
+  }
+}
